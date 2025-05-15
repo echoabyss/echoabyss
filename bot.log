@@ -1,0 +1,5 @@
+2025-05-08 00:23:09,102 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-08 01:08:57,328 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-09 14:32:44,485 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-09 14:32:44,488 - discord.client - INFO - logging in using static token
+2025-05-09 14:32:46,227 - EternityXBot - ERROR - Bot stopped due to error: Improper token has been passed.
